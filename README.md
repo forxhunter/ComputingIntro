@@ -1,7 +1,12 @@
-# ComputingIntro
-2020年秋季计算概论（B）提高班 总结
+# Introduction to Computing
 
-2021.0107最终更新(stop update formally)
+这是2020年秋季计算概论（B）提高班的总结
+
+This is the summary of the introduction to computing 2020Fall.
+
+2021.0107最终更新
+
+Last Update on Jan 7th, 2021
 
 ## 目录(Content)
 
