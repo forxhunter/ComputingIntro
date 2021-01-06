@@ -1,0 +1,7 @@
+'''
+Pangram
+'''
+n = int(input())
+word = input()
+letters = set(word.lower())
+print(len(letters))
